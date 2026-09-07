@@ -1,0 +1,6 @@
+{
+  "versionCode": 4,
+  "versionName": "0.4.0",
+  "apkUrl": "https://github.com/bobcatfr63/PharmaCabinet-Releases/releases/latest/download/PharmaCabinet.apk",
+  "notes": "PharmaCabinet 0.4.0 : nouvelle interface et logo, gestion de plusieurs armoires/pièces, sauvegarde et restauration du stock, formulaire de contact, scan médicament enrichi via la BDPM, historique et notifications de péremption."
+}
