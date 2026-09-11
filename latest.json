@@ -1,6 +1,7 @@
 {
-  "versionCode": 17,
-  "versionName": "0.7.4",
+  "versionCode": 18,
+  "versionName": "1.0.0",
   "apkUrl": "https://github.com/bobcatfr63/PharmaCabinet-Releases/releases/latest/download/PharmaCabinet.apk",
-  "notes": "PharmaCabinet 0.7.4"
+  "notes": "PharmaCabinet 1.0.0",
+  "sha256": "1a0d038479bbb6edc6947143024bf00284d10629a460309a6be7ddd2ee32b73d"
 }
